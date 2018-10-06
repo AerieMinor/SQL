@@ -1,5 +1,5 @@
 # SQL-Project
-Course project for SQL Server Class
+Course project for SQL Server Class. Created a database, database diagram, and executed queries as outlined in project requirements.
 echo "# SQL-Project" >> README.md
 git init
 git add README.md
